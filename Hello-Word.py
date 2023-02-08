@@ -1,2 +1,2 @@
-Print: 'Hello Word'
+Print("Hello Word")
 
